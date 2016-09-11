@@ -19,6 +19,8 @@ Advanced:
 - Writing shellcode
 
 ## Forensics
+- Networking basics
+- Analyzing PCAP files
 
 ## Cryptography
 - Bitwise Operators
