@@ -1,5 +1,11 @@
 # Learning-Resources
 
+These are some general CTF related topics
+
+## General
+
+- Reading and understanding Python code
+
 ## Web Exploitation
 - SQL Injection
 
@@ -15,6 +21,7 @@ Advanced:
 ## Forensics
 
 ## Cryptography
+- Building password crackers
 
 ## Reverse Engineering
 
