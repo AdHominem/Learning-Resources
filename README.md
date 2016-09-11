@@ -21,6 +21,7 @@ Advanced:
 ## Forensics
 
 ## Cryptography
+- Bitwise Operators
 - Building password crackers
 
 ## Reverse Engineering
