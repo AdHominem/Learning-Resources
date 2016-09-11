@@ -13,7 +13,7 @@ These are some general CTF related topics
 - Reading and understanding C source code
 - Decimal, hexadecimal and binary encoding
 - Memory and address space layout
-- Using shellcode [shell-storm.org](online)
+- Using shellcode from [external sources](shell-storm.org)
 
 Advanced:
 - Writing shellcode
