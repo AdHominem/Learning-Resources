@@ -20,7 +20,7 @@ Advanced:
 - Writing shellcode
 
 ## Forensics
-- Networking basics
+- Networking basics (TCP/IP, Server-Client, Headers, IP, MAC, etc)
 - Analyzing PCAP files
 
 ## Cryptography
