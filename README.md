@@ -23,6 +23,7 @@ Advanced:
 - Analyzing PCAP files
 
 ## Cryptography
+- Solving substitution ciphers (using [the Black Chamber](http://www.simonsingh.net/The_Black_Chamber/substitutioncrackingtool.html))
 - Bitwise Operators
 - Building password crackers
 
