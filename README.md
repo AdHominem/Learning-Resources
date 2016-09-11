@@ -7,6 +7,7 @@ These are some general CTF related topics
 - Reading and understanding Python code
 
 ## Web Exploitation
+- SQL
 - SQL Injection
 
 ## Binary Exploitation
