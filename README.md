@@ -1,6 +1,6 @@
 # Learning-Resources
 
-These are some general CTF related topics
+These are some general CTF related topics plus some good resouces for learning.
 
 ## General
 
@@ -9,6 +9,9 @@ These are some general CTF related topics
 ## Web Exploitation
 - SQL
 - SQL Injection
+
+[SQL Fiddle](http://sqlfiddle.com/)
+[OWASP Testing for SQLi](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
 
 ## Binary Exploitation
 - Reading and understanding C source code
