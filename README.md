@@ -24,9 +24,11 @@ Advanced:
 - Analyzing PCAP files
 
 ## Cryptography
-- Solving substitution ciphers (using [the Black Chamber](http://www.simonsingh.net/The_Black_Chamber/substitutioncrackingtool.html))
 - Bitwise Operators
+- Breaking substitution ciphers (using [the Black Chamber](http://www.simonsingh.net/The_Black_Chamber/substitutioncrackingtool.html))
 - Building password crackers
+- Breaking repeated single and multi byte XOR ciphers
+- Breaking shift ciphers
 
 ## Reverse Engineering
 - Understanding an reading Java code
