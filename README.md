@@ -35,4 +35,5 @@ Advanced:
 - Breaking shift ciphers
 
 ## Reverse Engineering
+- Disassembling ELF flies with objdump
 - Understanding an reading Java code
