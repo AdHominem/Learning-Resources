@@ -7,8 +7,11 @@ These are some general CTF related topics plus some good resouces for learning.
 - Reading and understanding Python code
 
 ## Web Exploitation
+- XML
 - SQL
 - SQL Injection
+- Web Parameter Tampering
+- Creating and setting cookies manually (Browser extensions)
 
 [SQL Fiddle](http://sqlfiddle.com/)
 
@@ -24,6 +27,8 @@ Advanced:
 - Writing shellcode
 
 ## Forensics
+- Knowing file system formats
+- Using grep to find files
 - Networking basics (TCP/IP, Server-Client, Headers, IP, MAC, etc)
 - Analyzing PCAP files
 
@@ -33,7 +38,10 @@ Advanced:
 - Building password crackers
 - Breaking repeated single and multi byte XOR ciphers
 - Breaking shift ciphers
+- Looking up messages for hash values with a given salt
 
 ## Reverse Engineering
 - Disassembling ELF flies with objdump
 - Understanding an reading Java code
+- Understanding x86 assembly control flow graphs
+- x86 assembly
