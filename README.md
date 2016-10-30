@@ -45,3 +45,4 @@ Advanced:
 - Understanding an reading Java code
 - Understanding x86 assembly control flow graphs
 - x86 assembly
+- Decompiling Java classes
