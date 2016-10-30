@@ -30,7 +30,7 @@ Advanced:
 - Knowing file system formats
 - Using grep to find files
 - Networking basics (TCP/IP, Server-Client, Headers, IP, MAC, etc)
-- Analyzing PCAP files
+- Analyzing PCAP files with `tshark` or `wireshark`
 
 [PCAP Display Filters](https://wiki.wireshark.org/DisplayFilters)
 
