@@ -48,6 +48,7 @@ Advanced:
 - Building password crackers
 - Breaking repeated single and multi byte XOR ciphers
 - Breaking shift ciphers
+- Calculating RSA with online tools
 - Looking up messages for hash values with a given salt
 
 ## Reverse Engineering
