@@ -48,3 +48,13 @@ Advanced:
 - Understanding x86 assembly control flow graphs
 - x86 assembly
 - Decompiling Java classes
+
+## Assembly Guide
+Assembly is mostly important for RE / debugging which in turn is the foundation for more advanced topics like exploit development. Writing own ASM code has a low priority since you will only write shellcode which is generally short and probably the least demanding part of exploitation.
+
+1. [SecurityTube's Assembly Primer](https://www.youtube.com/watch?v=K0g-twyhmQ4&list=PL6brsSrstzga43kcZRn6nbSi_GeXoZQhR)
+2. [SecurityTube's Windows Assembly Primer](https://vimeo.com/16496874)
+3. [OST's Intro to x86](http://www.opensecuritytraining.info/IntroX86.html)
+4. [Reverse Engineering Tutorials](http://octopuslabs.io/legend/blog/sample-page.html)
+
+Reference: [ASM instructions](http://x86.renejeschke.de/)
