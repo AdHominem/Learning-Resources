@@ -52,7 +52,7 @@ Advanced:
 
 ## Reverse Engineering
 - x86 assembly (see guide)
-- Understanding an reading Java code
+- Understanding and reading Java code
 - Decompiling Java classes
 - Disassembling ELF flies with objdump
 - Understanding x86 assembly control flow graphs
