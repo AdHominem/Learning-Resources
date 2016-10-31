@@ -37,7 +37,9 @@ Advanced:
 - Analyzing PCAP files with `tshark` or `wireshark`
 
 [PCAP Display Filters](https://wiki.wireshark.org/DisplayFilters)
+
 [List of file signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
+
 [More file signatures](http://www.garykessler.net/library/file_sigs.html)
 
 ## Cryptography
