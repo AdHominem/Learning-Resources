@@ -1,6 +1,7 @@
 # Learning-Resources
 
 These are some general CTF related topics plus some good resouces for learning.
+Note that CTFs can go from trivially easy to extremely demanding.
 
 ## General
 
