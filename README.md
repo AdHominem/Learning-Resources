@@ -57,4 +57,6 @@ Assembly is mostly important for RE / debugging which in turn is the foundation 
 3. [OST's Intro to x86](http://www.opensecuritytraining.info/IntroX86.html)
 4. [Reverse Engineering Tutorials](http://octopuslabs.io/legend/blog/sample-page.html)
 
+After this you are ready for RE-centered CtFs like [microcurruption](https://www.microcorruption.com/login). Also you can now dive into exploit development.
+
 Reference: [ASM instructions](http://x86.renejeschke.de/)
