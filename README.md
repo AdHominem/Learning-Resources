@@ -2,17 +2,18 @@
 
 These are some general CTF related topics plus some good resouces for learning.
 Note that CTFs can go from trivially easy to extremely demanding.
+There is no priority since the categories are mostly separated. You can be an expert at web exploitation but fail miserably at crypto. There are some synergistic advantages due to improved lateral thinking tho. But inside of the categories, the topics are ordered roughly by relevance so you could work through them top-down.
 
 ## General
 
 - Reading and understanding Python code
 
 ## Web Exploitation
+- Web Parameter Tampering
+- Creating and setting cookies manually (Browser extensions)
 - XML
 - SQL
 - SQL Injection
-- Web Parameter Tampering
-- Creating and setting cookies manually (Browser extensions)
 
 [SQL Fiddle](http://sqlfiddle.com/)
 
@@ -44,11 +45,11 @@ Advanced:
 - Looking up messages for hash values with a given salt
 
 ## Reverse Engineering
-- Disassembling ELF flies with objdump
+- x86 assembly (see guide)
 - Understanding an reading Java code
-- Understanding x86 assembly control flow graphs
-- x86 assembly
 - Decompiling Java classes
+- Disassembling ELF flies with objdump
+- Understanding x86 assembly control flow graphs
 
 ## Assembly Guide
 Assembly is mostly important for RE / debugging which in turn is the foundation for more advanced topics like exploit development. Writing own ASM code has a low priority since you will only write shellcode which is generally short and probably the least demanding part of exploitation.
