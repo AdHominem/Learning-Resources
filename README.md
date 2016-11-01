@@ -4,7 +4,7 @@ These are some general CTF related topics plus some good resouces for learning.
 Note that CTFs can go from trivially easy to extremely demanding.
 There is no priority since the categories are mostly separated. You can be an expert at web exploitation but fail miserably at crypto. There are some synergistic advantages due to improved lateral thinking tho. But inside of the categories, the topics are ordered roughly by relevance so you could work through them top-down.
 
-[create an anchor](#anchors-in-markdown)
+[create an anchor](## Cryptography)
 
 ## General
 
