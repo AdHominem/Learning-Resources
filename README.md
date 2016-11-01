@@ -44,7 +44,7 @@ Advanced:
 
 ## Cryptography
 - Bitwise Operators
-- Breaking substitution ciphers (using [the Black Chamber](http://www.simonsingh.net/The_Black_Chamber/substitutioncrackingtool.html))
+- Breaking substitution ciphers (using [the Black Chamber](http://www.simonsingh.net/The_Black_Chamber/substitutioncrackingtool.html) and `grep` on a word list)
 - Building password crackers
 - Breaking repeated single and multi byte XOR ciphers
 - Breaking shift ciphers
