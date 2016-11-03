@@ -11,6 +11,7 @@ There is no priority since the categories are mostly separated. You can be an ex
 ## Web Exploitation
 - Web Parameter Tampering
 - Creating and setting cookies manually (Browser extensions)
+- Parsing web data (`requests`, `lxml`, `BeautifulSoup`, etc)
 - XML
 - SQL
 - SQL Injection
