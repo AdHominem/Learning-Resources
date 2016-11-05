@@ -52,6 +52,8 @@ Advanced:
 - Calculating RSA with online tools
 - Looking up messages for hash values with a given salt
 
+Start here: [cryptopals](https://cryptopals.com/)
+
 ## Reverse Engineering
 - x86 assembly (see guide)
 - Understanding and reading Java code
