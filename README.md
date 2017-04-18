@@ -77,7 +77,7 @@ Reference: [ASM instructions](http://x86.renejeschke.de/)
 
 # Haskell
 
-[FFPiHaskell der Uni Bielefeld](https://www.youtube.com/playlist?list=PLMqFm6rr-xOXK8G2O31Kdzllm3aYaaRKG)
-[+ Übungen](https://github.com/FFPiHaskell/Vorlesung2016)
-[happylearnhaskelltutorial.com](http://www.happylearnhaskelltutorial.com/contents.html)
-[CIS194 by Penn University](https://www.seas.upenn.edu/~cis194/spring15/) also refers to other sources like [LYAH](http://learnyouahaskell.com/) and [Real World Haskell](http://book.realworldhaskell.org/)
+- [FFPiHaskell der Uni Bielefeld](https://www.youtube.com/playlist?list=PLMqFm6rr-xOXK8G2O31Kdzllm3aYaaRKG)
+- [+ Übungen](https://github.com/FFPiHaskell/Vorlesung2016)
+- [happylearnhaskelltutorial.com](http://www.happylearnhaskelltutorial.com/contents.html)
+- [CIS194 by Penn University](https://www.seas.upenn.edu/~cis194/spring15/) also refers to other sources like [LYAH](http://learnyouahaskell.com/) and [Real World Haskell](http://book.realworldhaskell.org/)
